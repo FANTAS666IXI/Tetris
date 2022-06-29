@@ -41,3 +41,15 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Grid
+    uniqueID: 981930273
+    locked: 0
+  - name: Border
+    uniqueID: 905085499
+    locked: 0
+  - name: Ghost Tile Map
+    uniqueID: 2386492351
+    locked: 0
+  - name: Main Tile Map
+    uniqueID: 1433644717
+    locked: 0
