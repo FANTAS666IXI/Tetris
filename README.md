@@ -7,7 +7,7 @@
 
   - Unity : 2021.3.4f1 LTS
 
-  - Tetris : 0.1
+  - Tetris : 0.2
 
 - Bibliography :
 
